@@ -7,5 +7,6 @@ int main()
 	cin>>a>>b;
 	cout<<"addition of two numbers = "<<a+b<<endl;
 	cout<<"multiplucation of two numbers  = "a*b<<endl;
+	cout<<pow(a,b)<<endl;
 	return 0;
 }
